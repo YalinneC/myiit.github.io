@@ -8,9 +8,9 @@
     * ask other people
 3. **The current site goes like this**
     *Log in 
-    *Welcome page![Welcome](/welcomepage.png)
+    *Welcome page![Welcome](/welcome page.png)
     *Banner Self Service here you can view OR update your personal information ![Bannerself service](/Banner Self-service(2).png) 
-   ![View adress](/ view adresses (4).png)
+   ![View adress](/view adresses (4).png)
    ![Update adress](/update adresses and phones(3).png) 
     *This is the same for all other items
 4. **Decide as a team on a better design**
